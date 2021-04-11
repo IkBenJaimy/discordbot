@@ -1,0 +1,12 @@
+{
+    "SERVER_URL": "213.133.101.152:37885",
+    "SERVER_LOGO": "https://i.ibb.co/0tt5Wpq/largeimage.png",
+    "SERVER_NAME": "TestServerRP",
+    "PREFIX": "!",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"818406206539956225",
+        "MEMES":"",
+        "ANIMALS":""
+    }
+    
+}
